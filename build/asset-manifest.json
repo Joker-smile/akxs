@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2015214.chunk.css",
+    "main.js": "/static/js/main.c1318d9b.chunk.js",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "static/css/2.2f3bbc7f.chunk.css": "/static/css/2.2f3bbc7f.chunk.css",
+    "static/js/2.be22c1c7.chunk.js": "/static/js/2.be22c1c7.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.ce621be66054c0fcc01646212b8d0182.js": "/precache-manifest.ce621be66054c0fcc01646212b8d0182.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2f3bbc7f.chunk.css.map": "/static/css/2.2f3bbc7f.chunk.css.map",
+    "static/css/main.a2015214.chunk.css.map": "/static/css/main.a2015214.chunk.css.map",
+    "static/media/IMG_0473.JPG": "/static/media/IMG_0473.4b8a0119.JPG",
+    "static/media/IMG_0480.PNG": "/static/media/IMG_0480.ceb8d6af.PNG",
+    "static/media/bind.png": "/static/media/bind.1eeb1a8b.png",
+    "static/media/ArrivalSuc.scss": "/static/media/main_getMoneyImg@3x.ef9dc0fc.png",
+    "static/media/WarnPage.scss": "/static/media/main_notRegister@3x.2a805322.png",
+    "static/media/Mentoring.scss": "/static/media/master_share_img@3x.e209538f.png",
+    "static/media/shout.png": "/static/media/shout.7f7d86f2.png"
+  }
+}
